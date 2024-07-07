@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pvargasdiaz
 - 👀 I’m interested in Global Health and the way data is used in this field
-- 🌱 I’m currently learning R Studio
+- 🌱 I work with R Studio and build dashboards for humanitarian response @WHO 
 - 💞️ I’m looking to collaborate on Health Information Systems
 - 📫 How to reach me: https://www.linkedin.com/in/paola-vargasglobalhealth/
 
