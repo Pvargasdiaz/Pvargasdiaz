@@ -6,7 +6,7 @@
 www.pavd.me
 https://www.linkedin.com/in/paola-vargasglobalhealth/
 
-- If you need access to the EMR Dashboard repository email whepartnerships@who.int and keep me in copy / NO DMs please
+- If you need access to the EMR Dashboard repository; email whepartnerships@who.int and keep me in copy / NO DMs please
 
 <!---
 Pvargasdiaz/Pvargasdiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
